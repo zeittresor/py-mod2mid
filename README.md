@@ -11,3 +11,5 @@ if no matching name was found it will try to use different midi instruments or p
 but you can already test it with some amiga protracker .mod files for example from AmiNet.
 
 Source: https://github.com/zeittresor/py-mod2mid
+
+Requirements: You might need to install "mido" and "python-rtmidi" libraries for example using "pip install mido python-rtmidi".
